@@ -163,18 +163,6 @@ public class ClockInOutHistoryActivity extends AppCompatActivity{
                     });
                     break;
             }
-
-
-
-
-
-
-
-
-
-
-
-
             return itemView;
         }
     }
