@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nathan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Workspace\TimeOut\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-5039c39793e7200267094c172822ece28a75f0f2.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\TimeOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Workspace\TimeOut\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-94c2796187cc2f1eb1319a3509a22dd21e7b4b6c.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\TimeOut\app\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\Workspace\TimeOut\app\build\intermediates\pre-dexed\debug\mail-43737c6f28f2a4e2a59167fdeee00a3bc0a4c8e7.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\TimeOut\app\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\Workspace\TimeOut\app\build\intermediates\pre-dexed\debug\activation-953ae1a3c2a9981b283521105ad0f80c065c5544.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\TimeOut\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\Workspace\TimeOut\app\build\intermediates\pre-dexed\debug\additionnal-3be7d6207eb823fd12586c18cd45b2b4212c28dc.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\TimeOut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Workspace\TimeOut\app\build\intermediates\pre-dexed\debug\classes-4cfe0bf1bca9a7a8852d260e10ac4bf5acf27ca3.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\TimeOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Workspace\TimeOut\app\build\intermediates\pre-dexed\debug\classes-5d9f2da15d1d13f6c1aa2527565c503767a35fb9.jar" />
+    </item>
+
+</items>
